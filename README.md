@@ -28,4 +28,7 @@ Open source low-cost ECG Generator board to generate and simulate the ECG signal
 #### References
 * Arduino Menta ECG Simulator project  
 https://github.com/lynchzilla/ecg_simulator
+* Arduino Boards for Proteus  
+https://www.theengineeringprojects.com/2016/08/new-proteus-libraries-engineering-students.html
+
 
