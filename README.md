@@ -6,6 +6,8 @@ Open source low-cost ECG Generator board to generate and simulate the ECG signal
   * prototyping by arduino
     * Code by platformio
     * Simulation by proteus
+    * References
+    * Signal Data Array c
   * prototyping by ESP8266
     * Code by platformio
 * PCB Board
