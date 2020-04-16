@@ -176,7 +176,7 @@ ISR(TIMER2_OVF_vect) {
     break;
   }
  
-  // output to the 7-segment display every 50 msec
+  // output to serial every 50 msec
   DisplayCount++;
   if (DisplayCount >= 50) {
     DisplayCount = 0;
