@@ -1,5 +1,5 @@
 # ECG Generator
-Open source low-cost ECG Generator board to generate and simulate the ECG signal of 3-leads RA,LA,RL
+Open source low-cost ECG Generator device to generate and simulate the ECG signal of 3-leads RA,LA,RL
 
 #### Source Files description
 * Prototype  
